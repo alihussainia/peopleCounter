@@ -35,4 +35,4 @@ You will need four separate terminal windows open in order to see the results. T
 
 Result:
 
-<video src="sample_output/output.mp4" width=500px height=500px></video>
+<img src="images/people-counter-image.png" width=600px height=400px></video>
